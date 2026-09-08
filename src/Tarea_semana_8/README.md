@@ -2,7 +2,7 @@
 
 **Nombre:** Angel Estuardo Campos Santay  
 **Carné:** 9941-25-4809  
-**Curso:** Programación I  
+**Curso:** Programación II
 **Proyecto:** semana-08-control-compras  
 
 ---
